@@ -7,7 +7,7 @@ Scanner sc=new Scanner(System.in);
 int arr[]=new int[10];
 System.out.print("Enter array element of size:10");
 
-for(int j=0; j<arr.length; j++);
+for(int j=0; j<arr.length; j++)
  {
    int arr[j]=sc.nextInt();
  }
